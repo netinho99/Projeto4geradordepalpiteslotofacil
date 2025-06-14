@@ -1,5 +1,8 @@
 --<"Faltam correçoes eu acho">--
 
+🚀 Link para o site: https://projeto4geradordepalpiteslotofacil.vercel.app/
+
+
 🎯 Gerador de Palpites Lotofácil
 
 Projeto interativo para gerar palpites da Lotofácil com opções de personalização e estatísticas automáticas. Ideal para jogadores que desejam gerar jogos aleatórios ou com critérios específicos como número de pares/ímpares e fixação de dezenas.
