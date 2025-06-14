@@ -1,0 +1,2 @@
+# geradorpalpiteslotofacil
+Faltam algumas correções
