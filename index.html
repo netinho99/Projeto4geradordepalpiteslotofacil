@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gerador Lotofácil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Gerador de Palpites Lotofácil</h1>
+    <p>Escolha até <strong>14 números</strong> para personalizar seus jogos.</p>
+    <p>Pares: <span id="pares">0</span> | Ímpares: <span id="impares">0</span></p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Seleção de Números</h2>
+      <div class="numeros-container" id="numeros"></div>
+      <div>
+        <button id="gerar-btn">Gerar 10 Jogos Aleatórios</button>
+        <button id="finalizar-btn">Finalizar Escolha</button>
+        <button id="limpar-btn">Limpar Seleção</button>
+      </div>
+    </section>
+
+    <section class="estatisticas">
+      <h2>Estatísticas dos Jogos</h2>
+      <ul>
+        <li>Total de Jogos Gerados: <span id="total-jogos">0</span></li>
+        <li>Jogos com mais pares: <span id="mais-pares">0</span></li>
+        <li>Jogos com mais ímpares: <span id="mais-impares">0</span></li>
+        <li>Jogos com repetidos: <span id="repetidos">0</span></li>
+        <li>Distribuição por quadrantes: <span id="quadrantes">N/A</span></li>
+        <li>Combinações Possíveis com Selecionados: <span id="combinacoes">0</span></li>
+      </ul>
+    </section>
+
+    <section class="personalizado">
+      <h2>Personalize seus Jogos</h2>
+      <form id="form-personalizado">
+        <label for="quantidade-jogos">Quantidade de Jogos (até 30):</label>
+        <input type="number" id="quantidade-jogos" name="quantidade-jogos" min="1" max="30" value="1">
+
+        <label for="pares-desejados">Quantidade de Pares:</label>
+        <input type="number" id="pares-desejados" name="pares-desejados" min="0" max="15" value="7">
+
+        <label for="impares-desejados">Quantidade de Ímpares:</label>
+        <input type="number" id="impares-desejados" name="impares-desejados" min="0" max="15" value="8">
+
+        <button type="submit">Gerar Jogos Personalizados</button>
+      </form>
+    </section>
+
+    <section class="jogos-gerados" id="resultados">
+      <h2>Jogos Gerados</h2>
+    </section>
+  </main>
+
+  <footer>
+    <p></p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
