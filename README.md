@@ -1,7 +1,7 @@
 --<"Faltam correçoes eu acho">--
-Ao vizualizar pelo dispositivo movél é recomendado colocar a opção site para computador. 
-Printinformativo:
-![tempFileForShare_20250614-194045](https://github.com/user-attachments/assets/b3e1ff82-239a-49c2-ad05-5f2b96fa9f39)
+
+Ao vizualizar pelo dispositivo mobile é recomendado colocar a opção site para computador. 
+Printinformativo: Na última linha
 
 
 🚀 Link para o site: https://projeto4geradordepalpiteslotofacil.vercel.app/
@@ -82,4 +82,11 @@ start index.html
     Distribuição por quadrantes (em construção)
 
     Número de combinações possíveis com os fixos
+
+
+
+    Visualizar pelo mobile marcar a opção: 
+
+
+    ![tempFileForShare_20250614-194045](https://github.com/user-attachments/assets/b3e1ff82-239a-49c2-ad05-5f2b96fa9f39)
 
