@@ -1,5 +1,6 @@
 --<"Faltam correçoes eu acho">--
 Ao vizualizar pelo dispositivo mobile é recomendado colocar a opção site para computador, tem um printinformativo: linha 92
+
 🚀 Link para o site: https://projeto4geradordepalpiteslotofacil.vercel.app/
 
 🎯 Gerador de Palpites Lotofácil
