@@ -1,6 +1,4 @@
 --<"Faltam correçoes eu acho">--
-
-
 > [!TIP]
 > Ao vizualizar pelo dispositivo mobile é recomendado colocar a opção site para computador, tem um printinformativo: linha 92
 
